@@ -1,1 +1,2 @@
-# GAMDSS
+# Code for GAMDSS
+
